@@ -41,21 +41,3 @@
   color: #a5a5a5;
 }
 
-@media only screen and (max-width: 1200px) {
-  .container {
-    height: 4rem;
-    width: 100%;
-  }
-  .container svg,
-  .locate button {
-    font-size: 1.5rem;
-  }
-  .container .input {
-    height: 4rem;
-    padding-left: 3rem;
-    font-size: 1.2rem;
-  }
-  .container .input::placeholder {
-    font-size: 1.2rem;
-  }
-}
