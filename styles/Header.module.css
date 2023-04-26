@@ -75,7 +75,7 @@
   font-weight: 500;
 }
 
-@media only screen and (max-width: 1000px) {
+
   .header {
     justify-content: start;
   }
@@ -85,4 +85,4 @@
   .settingsButton {
     display: block;
   }
-}
+
