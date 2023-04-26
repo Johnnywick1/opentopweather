@@ -83,22 +83,4 @@
   grid-auto-rows: 1fr;
   gap: 1rem;
 }
-@media only screen and (max-width: 1200px) {
-  .top {
-    flex-direction: column-reverse;
-    gap: 1rem;
-    margin-bottom: 2rem;
-  }
-  .widgets {
-    grid-template-columns: repeat(2, minmax(9rem, 1fr));
-  }
-  .forecast {
-    margin-top: 0;
-  }
-  .forecastButtons button {
-    flex: 1;
-  }
-  .detail {
-    margin-top: 1.5rem;
-  }
-}
+
