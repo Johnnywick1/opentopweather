@@ -19,11 +19,4 @@
   font-size: 1.2rem;
 }
 
-@media only screen and (max-width: 1200px) {
-  .buttons {
-    gap: 2rem;
-  }
-  .button {
-    font-size: 1.2rem;
-  }
-}
+
